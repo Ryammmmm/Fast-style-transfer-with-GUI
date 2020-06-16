@@ -13,8 +13,8 @@ python gui.py
 ![gui界面](https://github.com/Ryammmmm/Fast-style-transfer-with-GUI/blob/master/images/gui.png)
 
 ## Train
-自己训练的时候要先找数据集。
-推荐数据集大小要大于4W张图片
+自己训练的时候要先找数据集，
+推荐数据集大小要大于4W张图片。
 ```
 python train.py   --dataset_path <path-to-dataset> \
                   --style_image <path-to-style-image> \
